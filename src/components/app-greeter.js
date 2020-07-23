@@ -1,4 +1,4 @@
-import WebComponent from './core/webcomponent.js'
+import WebComponent from '../core/webcomponent.js'
 
 const template = (obj) => obj.name ? `
 <p>Hi ${obj.name}! Nice to meet you!</p>

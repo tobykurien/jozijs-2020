@@ -12,7 +12,7 @@ customElements.define(
             this.shadow.innerHTML = template(this)
         }
 
-        get name() {
+        get value() {
             return this.shadow.querySelector("paper-input").value
         }
     }
