@@ -1,0 +1,27 @@
+{
+  "name": "jozijs-2020",
+  "version": "1.0.0",
+  "description": "![](https://secure.meetupstatic.com/photos/event/a/e/6/4/600_465824644.jpeg)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobykurien/jozijs-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobykurien/jozijs-2020/issues"
+  },
+  "homepage": "https://github.com/tobykurien/jozijs-2020#readme",
+  "dependencies": {
+    "@polymer/paper-button": "^3.0.1",
+    "@polymer/paper-input": "^3.2.1",
+    "snowpack": "^2.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0"
+  }
+}
