@@ -24,7 +24,7 @@ customElements.define(
 
             this.input.addEventListener('change', () => {
                 this.greeter.name = this.input.value;
-                this.greeter.render()
+                this.greeter.update()
             })
 
             this.reset.onclick = () => {
