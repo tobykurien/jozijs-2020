@@ -2,11 +2,17 @@
 
 ![](https://secure.meetupstatic.com/photos/event/a/e/6/4/600_465824644.jpeg)
 
-This talk, aimed towards beginners, walks through creating a modern web app using plain HTML, CSS, and JavaScript.
+[This talk](https://www.meetup.com/Jozi-JS/events/271620720/), aimed towards beginners, walks through creating a modern web app using plain HTML, CSS, and JavaScript.
 
 The idea is to aim for simplicity, and to understand how modern browsers work (we will make use of Web Components too), while learning a minimum set of tools and concepts that will allow you to build production-ready apps.
 
 We won't be using any frameworks, so no prior knowledge is needed, other than basic HTML and JavaScript.
+
+# Replay
+
+Watch the replay of the talk:
+
+[![YouTube replay](thumbnail.png))](https://www.youtube.com/watch?v=nEORHVdCzEs&t=22m)
 
 # Vueangulact
 
