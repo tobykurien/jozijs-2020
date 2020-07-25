@@ -44,7 +44,7 @@ Watch the replay of the talk:
   - [Snowpack](https://www.snowpack.dev/) to import UI web components
 - **Tech Stack**:
   - Plain HTML5, CSS4, JavaScript (ES6)
-  - Web Components (shadow DOM, slots)
+  - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) (shadow DOM, slots)
 - **Architecture**:
   - Base `WebComponents` class to simplify lifecycles and reduce boilerplate code
   - _Stand-alone_ child elements with public methods, callbacks, sparingly emits events
@@ -55,11 +55,11 @@ Watch the replay of the talk:
 - Bundling & transpile:
   - webpack/[parcel plugin](https://github.com/pikapkg/create-snowpack-app/tree/master/packages/plugin-parcel) for snowpack
 - Progressive Web App:
-  - Learn about [PWA's](https://web.dev/progressive-web-apps/)
-  - Put your PWA on an app store: pwabuilder.com
+  - Learn about [progressive web apps](https://web.dev/progressive-web-apps/)
+  - Put your PWA on an app store: [pwabuilder.com](https://pwabuilder.com)
 - Other UI components:
-  - Carbon design system: carbondesignsystem.com
-  - Ionic components: ionicframework.com/docs/components/
+  - Carbon design system: [carbondesignsystem.com](https://carbondesignsystem.com)
+  - Ionic components: [ionicframework.com/docs/components/](https://ionicframework.com/docs/components/)
 
 # The framework tradeoff
 
@@ -77,4 +77,4 @@ Watch the replay of the talk:
 # Contact
 
 > https://tobykurien.com  
-> @tobykurien
+> [@tobykurien](https://twitter.com/tobykurien)
