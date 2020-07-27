@@ -72,7 +72,7 @@ Watch the replay of the talk:
 
 - This presentation: github.com/tobykurien/jozijs-2020
 - Article: [Web Components will replace your frontend framework](https://blog.usejournal.com/web-components-will-replace-your-frontend-framework-3b17a580831c?gi=53fe9e236d27)
-- Guidelines/recommendations: [Open Web Components](open-wc.org)
+- Guidelines/recommendations: [Open Web Components](https://open-wc.org)
 
 # Contact
 
